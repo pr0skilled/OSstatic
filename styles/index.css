@@ -6,6 +6,6 @@ main {
     align-items: center;
     font-size: 50px;
     font-weight: bold;
-    border: 5px dashed red;
+    border: 5px dashed green;
     color: darkred;
 }
